@@ -132,7 +132,7 @@ footer {
   text-align: center;
   color: #FFF; }
 
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   /* Base
   ------------------------------------------------------------*/
   a:hover {
@@ -180,7 +180,7 @@ header .site-title {
     font-size: 4.2rem;
     color: #14c0c9; }
 header .profile-icon {
-  background-image: url("./images/img_top_cat.jpg");
+  background-image: url("../images/img_top_cat.jpg");
   height: 500px;
   width: 100%;
   background-size: cover;
@@ -188,7 +188,7 @@ header .profile-icon {
 header p {
   font-size: 1.6rem; }
 
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   a:hover {
     text-decoration: underline; }
 
@@ -199,7 +199,7 @@ header p {
     color: #FFF; }
 
   .profile-icon {
-    background-image: url("./images/img_top_cat.jpg");
+    background-image: url("../images/img_top_cat.jpg");
     height: 250px;
     width: 100%;
     background-size: cover;

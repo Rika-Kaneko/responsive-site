@@ -152,7 +152,7 @@ footer {
   color: #FFF;
 }
 // desktop
-@media (min-width: 768px) {
+@media (min-width: 769px) {
 
   /* Base
   ------------------------------------------------------------*/
@@ -221,7 +221,7 @@ header {
     }
   }
   .profile-icon {
-    background-image: url("./images/img_top_cat.jpg");
+    background-image: url("../images/img_top_cat.jpg");
     height: 500px;
     width: 100%;
     background-size: cover;
@@ -233,7 +233,7 @@ header {
 }
 
 // desktop
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   a {
     &:hover {
       text-decoration: underline;
@@ -250,7 +250,7 @@ header {
   }
 
   .profile-icon {
-    background-image: url("./images/img_top_cat.jpg");
+    background-image: url("../images/img_top_cat.jpg");
     height: 250px;
     width: 100%;
     background-size: cover;
