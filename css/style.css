@@ -198,14 +198,13 @@ header p {
     background-color: #4c4c4c;
     color: #FFF; }
 
-  .profile-icon {
+  header .profile-icon {
     background-image: url("../images/img_top_cat.jpg");
     height: 250px;
     width: 100%;
     background-size: cover;
     background-position: center center; }
-
-  p {
+  header p {
     font-size: 1.6rem; } }
 /* Contents
 ------------------------------------------------------------*/
